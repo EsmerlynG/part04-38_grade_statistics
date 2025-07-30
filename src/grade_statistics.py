@@ -1,7 +1,4 @@
 # Write your solution here
-from operator import index
-
-
 def get_exam_points(data):
     result = data.split()
     points = result[0]
